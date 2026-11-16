@@ -32,6 +32,6 @@ Desenvolvedor Full-Stack, UI/UX Designer e DevOps. Criando aplicações rápidas
 
 ## Experiência
 
-- **Full-Stack na PAYJOTA FinTech** (2024 – presente): aplicações web para pagamentos, containers Docker e integração de LLMs
+- **Full-Stack na PAYJOTA** (2024 – presente): aplicações web, containers Docker e integração de LLMs
 - **UI/UX Designer e Dev independente** (2021 – 2024): identidade visual, landing pages e sistemas Web/Mobile
 - **TI e Design** (2016 – 2021): infraestrutura, hardware/software, Linux/Unix e design gráfico publicitário
