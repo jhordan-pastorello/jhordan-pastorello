@@ -27,6 +27,7 @@ Desenvolvedor Full-Stack, UI/UX Designer e DevOps. Criando aplicações rápidas
 ## Projetos
 
 - [**Split Whatsapp**](https://split-whatsapp-site.vercel.app): app desktop com landing page em Next.js e Payload CMS
+- [**Mappie**](https://mappie-gamma.vercel.app): landing page
 - [**Gerenciador de terminal SSH**](https://github.com/jhordan-pastorello/gerenciado-terminal-ssh): cliente para gerenciar sessões SSH, em C#
 
 ## Experiência
